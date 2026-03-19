@@ -1,0 +1,34 @@
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\bin\Debug\net8.0\appsettings.json
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\bin\Debug\net8.0\Tienda VirtualDavid.staticwebassets.runtime.json
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\bin\Debug\net8.0\Tienda VirtualDavid.staticwebassets.endpoints.json
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\bin\Debug\net8.0\Tienda VirtualDavid.exe
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\bin\Debug\net8.0\Tienda VirtualDavid.deps.json
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\bin\Debug\net8.0\Tienda VirtualDavid.runtimeconfig.json
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\bin\Debug\net8.0\Tienda VirtualDavid.dll
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\bin\Debug\net8.0\Tienda VirtualDavid.pdb
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\obj\Debug\net8.0\Tienda VirtualDavid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\obj\Debug\net8.0\Tienda VirtualDavid.AssemblyInfoInputs.cache
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\obj\Debug\net8.0\Tienda VirtualDavid.AssemblyInfo.cs
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\obj\Debug\net8.0\Tienda VirtualDavid.csproj.CoreCompileInputs.cache
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\obj\Debug\net8.0\Tienda VirtualDavid.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\obj\Debug\net8.0\Tienda VirtualDavid.RazorAssemblyInfo.cache
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\obj\Debug\net8.0\Tienda VirtualDavid.RazorAssemblyInfo.cs
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\obj\Debug\net8.0\scopedcss\bundle\Tienda VirtualDavid.styles.css
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\obj\Debug\net8.0\scopedcss\projectbundle\Tienda VirtualDavid.bundle.scp.css
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\obj\Debug\net8.0\Tienda VirtualDavid.dll
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\obj\Debug\net8.0\refint\Tienda VirtualDavid.dll
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\obj\Debug\net8.0\Tienda VirtualDavid.pdb
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\obj\Debug\net8.0\Tienda VirtualDavid.genruntimeconfig.cache
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\obj\Debug\net8.0\ref\Tienda VirtualDavid.dll
+C:\Users\Lab Simulacion 2\source\repos\Tienda VirtualDavid\obj\Debug\net8.0\Tienda VirtualDavid.csproj.AssemblyReference.cache
