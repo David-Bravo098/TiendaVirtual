@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using TiendaVirtualDavid.Data;
+using TiendaVirtual.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 

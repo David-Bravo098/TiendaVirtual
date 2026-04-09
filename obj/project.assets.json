@@ -4009,9 +4009,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lab Simulacion 2\\source\\repos\\TiendaVirtual\\TiendaVirtualDavid.csproj",
-      "projectName": "TiendaVirtualDavid",
-      "projectPath": "C:\\Users\\Lab Simulacion 2\\source\\repos\\TiendaVirtual\\TiendaVirtualDavid.csproj",
+      "projectUniqueName": "C:\\Users\\Lab Simulacion 2\\source\\repos\\TiendaVirtual\\TiendaVirtual.csproj",
+      "projectName": "TiendaVirtual",
+      "projectPath": "C:\\Users\\Lab Simulacion 2\\source\\repos\\TiendaVirtual\\TiendaVirtual.csproj",
       "packagesPath": "C:\\Users\\Lab Simulacion 2\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Lab Simulacion 2\\source\\repos\\TiendaVirtual\\obj\\",
       "projectStyle": "PackageReference",
@@ -4090,13 +4090,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error al obtener los datos de vulnerabilidad del paquete: No se puede cargar el índice de servicio para el origen https://api.nuget.org/v3/index.json."
-    }
-  ]
+  }
 }

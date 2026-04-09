@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace TiendaVirtualDavid.Models
+namespace TiendaVirtual.Models
 {
     public class Usuario
     {
@@ -11,7 +11,7 @@ namespace TiendaVirtualDavid.Models
 
         [Required]
         [RegularExpression(@"^3\d{9}$",
-            ErrorMessage = "El celular debe estar entre 3000000000 y 3999999999")]
-        public string celular { get; set; }
+            ErrorMessage = "El celular debe comenzar con 3 y tener 10 digitos")]
+        public string Celular { get; set; }
     }
 }

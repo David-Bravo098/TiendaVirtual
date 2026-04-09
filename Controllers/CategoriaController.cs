@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using TiendaVirtualDavid.Models;
+using TiendaVirtual.Models;
 
-namespace TiendaVirtualDavid.Controllers
+namespace TiendaVirtual.Controllers
 {
     public class CategoriaController : Controller
     {

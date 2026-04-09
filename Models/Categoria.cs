@@ -1,4 +1,4 @@
-﻿namespace TiendaVirtualDavid.Models
+﻿namespace TiendaVirtual.Models
 {
     public class Categoria
     {

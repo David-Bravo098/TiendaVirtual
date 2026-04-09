@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using TiendaVirtualDavid.Data;
+using TiendaVirtual.Data;
 
 #nullable disable
 
@@ -21,7 +21,7 @@ namespace Tienda_VirtualDavid.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("TiendaVirtualDavid.Models.Categoria", b =>
+            modelBuilder.Entity("TiendaVirtual.Models.Categoria", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -42,7 +42,7 @@ namespace Tienda_VirtualDavid.Migrations
                     b.ToTable("Categorias");
                 });
 
-            modelBuilder.Entity("TiendaVirtualDavid.Models.Producto", b =>
+            modelBuilder.Entity("TiendaVirtual.Models.Producto", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -71,7 +71,7 @@ namespace Tienda_VirtualDavid.Migrations
                     b.ToTable("Productos");
                 });
 
-            modelBuilder.Entity("TiendaVirtualDavid.Models.Usuario", b =>
+            modelBuilder.Entity("TiendaVirtual.Models.Usuario", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -100,9 +100,9 @@ namespace Tienda_VirtualDavid.Migrations
                     b.ToTable("Usuarios");
                 });
 
-            modelBuilder.Entity("TiendaVirtualDavid.Models.Producto", b =>
+            modelBuilder.Entity("TiendaVirtual.Models.Producto", b =>
                 {
-                    b.HasOne("TiendaVirtualDavid.Models.Categoria", "Categoria")
+                    b.HasOne("TiendaVirtual.Models.Categoria", "Categoria")
                         .WithMany()
                         .HasForeignKey("CategoriaId")
                         .OnDelete(DeleteBehavior.Cascade)

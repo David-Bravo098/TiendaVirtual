@@ -1,0 +1,29 @@
+﻿@model TiendaVirtual.Models.Usuario
+
+<h2>Crear Usuario</h2>
+
+<form method="post">
+
+    <div class="form-group">
+        <label>Nombre</label>
+        <input asp-for="Nombre" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Correo</label>
+        <input asp-for="Correo" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Rol</label>
+        <input asp-for="Rol" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Celular</label>
+        <input asp-for="Celular" class="form-control" />
+        <span asp-validation-for="Celular" class="text-danger"></span>
+    </div>
+
+    <button class="btn btn-success">Guardar</button>
+</form>

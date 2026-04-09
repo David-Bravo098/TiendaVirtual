@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using TiendaVirtualDavid.Models;
+using TiendaVirtual.Models;
 
-namespace TiendaVirtualDavid.Models
+namespace TiendaVirtual.Models
 {
     public class Producto
     {

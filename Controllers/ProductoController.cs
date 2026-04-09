@@ -1,11 +1,11 @@
 ﻿
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using TiendaVirtualDavid.Data;
-using TiendaVirtualDavid.Models;
+using TiendaVirtual.Data;
+using TiendaVirtual.Models;
 
 
-namespace TiendaVirtualDavid.Controllers
+namespace TiendaVirtual.Controllers
 {
     public class ProductoController : Controller
     {
@@ -27,6 +27,7 @@ namespace TiendaVirtualDavid.Controllers
         //FORMULARIO
         public IActionResult Create()
         {
+            ViewBag.Categorias = _context.Categorias.ToList();
             return View();
         }
 

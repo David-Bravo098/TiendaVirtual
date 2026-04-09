@@ -1,8 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using TiendaVirtualDavid.Models;
+using TiendaVirtual.Models;
 
 
-namespace TiendaVirtualDavid.Data
+namespace TiendaVirtual.Data
 {
     public class TiendaContext : DbContext
     {

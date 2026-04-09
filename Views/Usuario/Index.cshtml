@@ -1,0 +1,46 @@
+﻿@model List<TiendaVirtual.Models.Usuario>
+
+<div class="container mt-4">
+    <h2>Lista de Usuarios ingresados</h2>
+
+    <!-- Enlace para agregar nuevo usuario -->
+    <a class="btn btn-success mb-3" href="/Usuario/Create">
+        + Nuevo usuario
+    </a>
+
+    <table class="table table-striped table-bordered">
+        <thead class="table-dark">
+            <tr>
+                <th>Nombre</th>
+                <th>Correo</th>
+                <th>Rol</th>
+                <th>Celular</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Nombre</td>
+                    <td>@item.Correo</td>
+                    <td>@item.Rol</td>
+                    <td>@item.Celular</td>
+
+                    <td>
+                        <!-- Botón para editar -->
+                        <a class="btn btn-warning btn-sm" href="/Usuario/Edit/@item.Id">Editar</a>
+
+                        <!-- Botón para eliminar -->
+                        <a class="btn btn-danger btn-sm" href="/Usuario/Delete/@item.Id">Eliminar</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <!-- Enlace para volver al inicio -->
+    <a asp-controller="Home" asp-action="Index" class="btn btn-secondary mt-3">
+        Volver al Inicio
+    </a>
+</div>
